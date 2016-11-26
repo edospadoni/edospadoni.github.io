@@ -1,0 +1,22 @@
+---
+title: About Me
+date: 2016-11-25T16:00:00.000Z
+---
+
+`$ cat /home/edoardo/me.json`
+
+```json
+{
+  "firstname": "Edoardo",
+  "lastname": "Spadoni",
+  "birth": "1992-02-09",
+  "city": "Pesaro",
+  "country": "Italy",
+  "country_code": "IT",
+  "passions:": [
+    "Computer Science",
+    "Music",
+    "Cooking"
+  ]
+}
+```

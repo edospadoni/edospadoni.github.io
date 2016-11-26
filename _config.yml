@@ -1,0 +1,39 @@
+# Site settings
+title: Edoardo Spadoni
+description: 'Web Developer and Linux Enthusiast'
+url: 'http://edospadoni.me'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Edoardo Spadoni'
+  email: edoardo.spadoni@gmail.com
+  github_username:  edospadoni
+  linkedin_username:  edospadoni
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
