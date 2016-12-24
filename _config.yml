@@ -1,7 +1,7 @@
 # Site settings
 title: Edoardo Spadoni
 description: 'Web Developer and Linux Enthusiast'
-url: 'http://edospadoni.me'
+url: 'https://edospadoni.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
