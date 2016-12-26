@@ -1,6 +1,6 @@
 /* TEAM */
 Developer & Designer: Edoardo Spadoni
-Site: http://edospadoni.me
+Site: https://edospadoni.github.io
 Location: Pesaro, Italy, IT
 
 /* SITE */
