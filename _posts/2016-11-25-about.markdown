@@ -9,7 +9,7 @@ date: 2016-11-25T16:00:00.000Z
 {
   "firstname": "Edoardo",
   "lastname": "Spadoni",
-  "birth": "1992-02-09",
+  "birth": "Sun Feb 09 1992 17:10:00 GMT+0200 (CEST)",
   "city": "Pesaro",
   "country": "Italy",
   "country_code": "IT",

@@ -1,0 +1,43 @@
+---
+title: Projects
+date: 2017-03-08T13:00:00.000Z
+---
+
+[TravelMap]:https://edospadoni.github.io/travels
+[GitHub TravelMap UI]:https://github.com/edospadoni/travelmap-ui
+[GitHub TravelMap API]:https://github.com/edospadoni/travelmap-api
+[GitHub RemoteBand]:https://github.com/edospadoni/remote-band
+
+```javascript
+for (var p in PROJECTS) {
+  var project = {
+    name: p,
+    description: PROJECTS[p].short_description
+    demo: PROJECTS[p].demo_url
+    sources: PROJECTS[p].github_sources
+  }
+  jekyll.render('/templates/projects.html', project);
+}
+```
+
+### Travel Map
+
+#### **Description**
+Keep track of all your journeys and add a marker on the map for your visited cities.
+
+#### **Demo**
+[TravelMap]
+
+#### **Source**
+- [GitHub TravelMap UI]
+- [GitHub TravelMap API]
+
+
+
+### Remote Band
+
+#### **Description**
+This is a GarageBand wrapper that maps the transport buttons of MIDI device to the respective GarageBand functions.
+
+#### **Source**
+- [GitHub RemoteBand]
