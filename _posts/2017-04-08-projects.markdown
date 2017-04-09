@@ -3,7 +3,9 @@ title: Projects
 date: 2017-03-08T13:00:00.000Z
 ---
 
-[TravelMap]:https://edospadoni.github.io/travels
+[PeriodicTable]:https://edospadoni.github.io/periodic-table/
+[GitHub PeriodicTable]:https://github.com/edospadoni/periodic-table
+[TravelMap]:https://edospadoni.github.io/travels/
 [GitHub TravelMap UI]:https://github.com/edospadoni/travelmap-ui
 [GitHub TravelMap API]:https://github.com/edospadoni/travelmap-api
 [GitHub RemoteBand]:https://github.com/edospadoni/remote-band
@@ -19,6 +21,19 @@ for (var p in PROJECTS) {
   jekyll.render('/templates/projects.html', project);
 }
 ```
+
+### Periodic Table of Elements
+
+#### **Description**
+Periodic Table of Elements in HTML, CSS, JavaScript
+
+#### **Demo**
+[PeriodicTable]
+
+#### **Source**
+- [GitHub PeriodicTable]
+
+
 
 ### Travel Map
 
