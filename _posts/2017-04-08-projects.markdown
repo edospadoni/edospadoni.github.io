@@ -3,6 +3,8 @@ title: Projects
 date: 2017-03-08T13:00:00.000Z
 ---
 
+[EnDeCrypt]:https://edospadoni.github.io/endecrypt/
+[GitHub EnDeCrypt]:https://github.com/edospadoni/endecrypt
 [PeriodicTable]:https://edospadoni.github.io/periodic-table/
 [GitHub PeriodicTable]:https://github.com/edospadoni/periodic-table
 [TravelMap]:https://edospadoni.github.io/travels/
@@ -21,6 +23,19 @@ for (var p in PROJECTS) {
   jekyll.render('/templates/projects.html', project);
 }
 ```
+
+### EnDeCrypt
+
+#### **Description**
+Encrypt/Decrypt your Secrets using AES
+
+#### **Demo**
+[EnDeCrypt]
+
+#### **Source**
+- [GitHub EnDeCrypt]
+
+
 
 ### Periodic Table of Elements
 
