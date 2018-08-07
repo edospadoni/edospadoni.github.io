@@ -253,7 +253,7 @@ h4,
 
 h5,
 .h5 {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 h6,
@@ -305,7 +305,7 @@ p,
 .p {
     line-height: 1.9;
     margin-bottom: 1.875rem;
-    font-size: .8125rem;
+    font-size: 1.2em;
     display: block;
 }
 
@@ -414,7 +414,7 @@ img.animated {
     max-width: initial;
 }
 
-img:hover {
+img.animated:hover {
     -webkit-transform: translateY(-5px);
     transform: translateY(-5px);
 }
@@ -423,7 +423,7 @@ img:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 50%;
+    max-width: 25%;
     margin-top: 3em;
     margin-bottom: 3em !important;
 }

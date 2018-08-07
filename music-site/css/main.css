@@ -333,7 +333,7 @@ section.hero {
 
 .main-nav li {
     display: inline-block;
-    font-size: .6875rem;
+    font-size: 1em;
     font-weight: 600;
     text-transform: uppercase;
     margin-left: 1.9625rem;
@@ -483,6 +483,10 @@ h1.large {
 
 .no-padding-bottom {
     padding-bottom: 0px !important;
+}
+
+.small-padding-bottom {
+    padding-bottom: 25px !important;
 }
 
 .block-album a {
@@ -640,22 +644,22 @@ a.selected {
     padding: 1.45rem 0;
 }
 
-.block-info {
+/* .block-info {
     margin-top: -10em;
 }
 
 .block-info:last-child {
     margin-top: -15em;
-}
-
-@media all and (max-width: 991px) {
+} */
+/* 
+@media all and (max-width: 991px) { */
     .block-info {
         margin-top: 0em;
     }
     .block-info:last-child {
         margin-top: 0em;
     }
-}
+/* } */
 
 /* End band members section*/
 
@@ -940,6 +944,10 @@ img.background-img {
         color: #ffffff !important;
         opacity: .5 !important;
     }
+    .main-nav li a:hover {
+        color: #ffffff !important;
+        opacity: 1 !important;
+    }
     .main-nav li:last-child a {
         padding-bottom: 0;
     }
@@ -1086,7 +1094,7 @@ img.background-img {
     }
     .sing {
         margin-bottom: 3rem !important;
-        max-width: 40%;
+        max-width: 30%;
     }
     section.about .block-content.text-md-right,
     .block-album {
