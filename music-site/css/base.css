@@ -415,8 +415,8 @@ img.animated {
 }
 
 img.animated:hover {
-    -webkit-transform: translateY(-5px);
-    transform: translateY(-5px);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .sing {
@@ -464,11 +464,11 @@ input[type]:-moz-placeholder {
 }
 
 .zoom {
-    animation: zoom 15s ease 0s normal both infinite;
-    -webkit-animation: zoom 15s ease 0s normal both infinite;
-    -moz-animation: zoom 15s ease 0s normal both infinite;
-    -ms-animation: zoom 15s ease 0s normal both infinite;
-    -o-animation: zoom 15s ease 0s normal both infinite;
+    animation: zoom 10s ease 0s normal both infinite;
+    -webkit-animation: zoom 10s ease 0s normal both infinite;
+    -moz-animation: zoom 10s ease 0s normal both infinite;
+    -ms-animation: zoom 10s ease 0s normal both infinite;
+    -o-animation: zoom 10s ease 0s normal both infinite;
 }
 
 @keyframes zoom {
@@ -661,6 +661,48 @@ div[class*="col-"].gap-double-sm,
 
 .bg-red {
     background: #9e9e9e;
+}
+
+.medium-size {
+    font-size: 18px;
+}
+
+.small-size {
+    font-size: 14px;
+}
+
+.img__wrap {
+    position: relative;
+}
+
+.img__description_layer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity .2s, visibility .2s;
+}
+
+.img__wrap:hover .img__description_layer {
+    visibility: visible;
+    opacity: 1;
+}
+
+.img__description {
+    transition: .2s;
+    transform: translateY(1em);
+}
+
+.img__wrap:hover .img__description {
+    transform: translateY(0);
 }
 
 /*End misc */

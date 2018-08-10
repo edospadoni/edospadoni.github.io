@@ -160,7 +160,7 @@ span.close-search {
     background: #9e9e9e;
     text-align: center;
     right: 1em;
-    bottom: 1em;
+    bottom: 5em;
     padding-top: .6rem;
     z-index: 600;
     color: #ffffff;
@@ -530,40 +530,6 @@ h1.large {
     display: none;
 }
 
-/* .block-tracklist .audiojs .scrubber {
-     background-color: rgba(255, 255, 255, 0.7);
-     position: absolute;
-     height: 4px;
-     top: 33px;
-     z-index: 9999;
-     width: calc(100% - 130px);
-     left: 55px;
-     border-top: 0;
-}
- .block-tracklist .audiojs .time {
-     position: absolute;
-     text-shadow: none;
-     border: none;
-     height: auto;
-     line-height: normal;
-     margin: 0;
-     padding: 0;
-     top: 20px;
-     right: 62px;
-}
- .block-tracklist .audiojs .progress{
-     border-radius: 0;
-}
- .block-tracklist .audiojs .play-pause{
-     height: 55px;
-     width: 35px;
-}
- .block-tracklist .audiojs p{
-     position: relative;
-     top: 27px;
-     left: 7px;
-}*/
-
 .block-tracklist .audiojs .play-pause {
     border-right: 0;
 }
@@ -582,7 +548,6 @@ h1.large {
     padding-left: 2.5rem;
     padding-top: 1rem;
     padding-right: 1.5rem;
-    cursor: pointer;
     position: relative;
 }
 
@@ -651,7 +616,7 @@ a.selected {
 .block-info:last-child {
     margin-top: -15em;
 } */
-/* 
+/*
 @media all and (max-width: 991px) { */
     .block-info {
         margin-top: 0em;
