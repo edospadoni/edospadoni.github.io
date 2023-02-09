@@ -6,9 +6,9 @@ baseurl: '/'
 
 author:
   name: 'Edoardo Spadoni'
-  email: edoardo.spadoni@gmail.com
   github_username:  edospadoni
   linkedin_username:  edospadoni
+  twitter_username: edospadoni
 
 defaults:
   -
