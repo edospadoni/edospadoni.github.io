@@ -1,23 +1,16 @@
 ---
-title: About Me
+title: About
 date: 2016-11-25T16:00:00.000Z
 ---
 
-`$ cat /home/edoardo/me.json`
+---
 
-```json
-{
-  "firstname": "Edoardo",
-  "lastname": "Spadoni",
-  "birth": "Sun Feb 09 1992 17:10:00 GMT+0200 (CEST)",
-  "city": "Pesaro",
-  "country": "Italy",
-  "country_code": "IT",
-  "passions:": [
-    "Computer Science",
-    "Music",
-    "Cooking",
-    "Travels"
-  ]
-}
-```
+### I’m a Senior Software Engineer with 9+ years of experience in software development, project management and team leadership.
+
+### Enthusiastic about developing simple, maintainable and user-oriented solutions.
+
+### Focused on Web Developing and UX. Open Source projects maintainer, Git Workflow addicted and Linux enthusiast.
+
+--- 
+
+#### You can follow me and my work on GitHub @edospadoni.

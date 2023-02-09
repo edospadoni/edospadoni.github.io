@@ -1,6 +1,6 @@
 # Site settings
 title: Edoardo Spadoni
-description: 'Web Developer and Linux Enthusiast'
+description: 'Senior Software Engineer and Linux Enthusiast'
 url: 'https://edospadoni.github.io'
 baseurl: '/'
 
@@ -31,7 +31,7 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
