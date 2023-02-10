@@ -1234,15 +1234,15 @@ html {
 body {
     font-family: "Raleway", sans-serif;
     font-size: 1em;
-    color: #666666;
+    color: #141414;
 }
 
 ::selection {
-    background: #a7a7a7;
+    background: #141414;
 }
 
 ::-moz-selection {
-    background: #a7a7a7;
+    background: #141414;
 }
 
 a {
@@ -1379,7 +1379,7 @@ pre code {
 }
 
 .date a, .time a, .author a, .tags a {
-    color: #666666;
+    color: #141414;
 }
 
 .date a:hover, .time a:hover, .author a:hover, .tags a:hover {
@@ -1571,9 +1571,9 @@ hr {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: #666666;
+    background: #141414;
     background-size: cover;
-    overflow: auto;
+    overflow-y: auto;
 }
 
 .panel-cover--collapsed {
@@ -1589,7 +1589,7 @@ hr {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(20, 20, 20);
+    background-color: #141414;
 }
 
 .panel-cover__logo {
@@ -1903,7 +1903,7 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
     border: 1px solid #dddddd;
     border-radius: 3px;
     font-size: .9em;
-    color: #666666;
+    color: #141414;
 }
 
 input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus {
@@ -1955,7 +1955,7 @@ input[type="text"]:-ms-input-placeholder, input[type="password"]:-ms-input-place
     }
     .panel-main__inner {
         display: table-cell;
-        padding: 60px 10%;
+        padding: 60px 0%;
     }
     .panel-cover.panel-cover--collapsed {
         display: block;
