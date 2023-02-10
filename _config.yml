@@ -1,8 +1,8 @@
 # Site settings
 title: Edoardo Spadoni
-description: 'Senior Software Engineer and Linux Enthusiast'
+description: 'Software Engineer and Linux Enthusiast'
 url: 'https://edospadoni.github.io'
-baseurl: '/'
+baseurl: ''
 
 author:
   name: 'Edoardo Spadoni'

@@ -1573,6 +1573,7 @@ hr {
     height: 100%;
     background: #666666;
     background-size: cover;
+    overflow: auto;
 }
 
 .panel-cover--collapsed {

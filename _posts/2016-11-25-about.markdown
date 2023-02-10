@@ -5,7 +5,7 @@ date: 2016-11-25T16:00:00.000Z
 
 ---
 
-### I’m a Senior Software Engineer with 9+ years of experience in software development, project management and team leadership.
+### I’m a Software Engineer with 9+ years of experience in software development, project management and team leadership.
 
 ### Enthusiastic about developing simple, maintainable and user-oriented solutions.
 
