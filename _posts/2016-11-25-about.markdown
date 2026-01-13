@@ -5,12 +5,25 @@ date: 2016-11-25T16:00:00.000Z
 
 ---
 
-### I’m a Software Engineer with 9+ years of experience in software development, project management and team leadership.
+#### **Staff Software Engineer** with 12+ years of experience designing and scaling distributed systems in Go, primarily in remote-first, async environments.
 
-### Enthusiastic about developing simple, maintainable and user-oriented solutions.
+#### I focus on high-leverage technical work: architecture, complex problem solving, and unblocking teams when solutions are unclear or trade-offs are non-trivial. I write code selectively, where quality, performance, and long-term maintainability matter most.
 
-### Focused on Web Developing and UX. Open Source projects maintainer, Git Workflow addicted and Linux enthusiast.
+#### I currently provide technical leadership for core backend systems, mentoring a small team and supporting architectural decisions, while remaining hands-on on critical paths.
 
---- 
+#### Core maintainer of widely adopted open-source projects (100,000+ users globally), with strong ownership from design to production and a product-oriented mindset.
 
-#### You can follow me and my work on GitHub @edospadoni.
+---
+
+##### Speaker at
+
+- [Università di Urbino](https://informatica.uniurb.it/seminars/lopen-source-per-creare-distribuzioni-linux-personalizzate-il-caso-nethserver/)
+- [ITIS "Enrico Mattei"](https://community.nethserver.org/t/nethserver-at-itis-urbino-pu-italy/3076)
+- [UNIVPM](https://www.eventbrite.it/e/registrazione-lopen-source-per-creare-distribuzioni-linux-personalizzate-il-caso-nethserver-25315382992)
+- [Universiteti i Tiranës](https://www.linkedin.com/posts/nethesis_questi-giorni-giacomo-ed-edoardo-spadoni-activity-6339777431150428160-g1Zl)
+- [CentOS Dojo Brussels 2020](https://www.youtube.com/watch?v=30cdOX3SJ-c)
+- [Eroi Digitali 2024](https://www.youtube.com/watch?v=hzg5GiwCZEo)
+
+---
+
+##### You can follow me and my work on GitHub [@edospadoni](https://github.com/edospadoni).

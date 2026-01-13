@@ -1,6 +1,6 @@
 # Site settings
 title: Edoardo Spadoni
-description: 'Software Engineer and Linux Enthusiast'
+description: 'Software Engineer and Open Source Maintainer'
 url: 'https://edospadoni.github.io'
 baseurl: ''
 
@@ -8,7 +8,6 @@ author:
   name: 'Edoardo Spadoni'
   github_username:  edospadoni
   linkedin_username:  edospadoni
-  twitter_username: edospadoni
 
 defaults:
   -

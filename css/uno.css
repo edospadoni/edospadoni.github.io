@@ -1284,11 +1284,8 @@ h3 {
 }
 
 h4 {
-    font-size: 1.4em;
-}
-
-h4 {
     font-size: 1.2em;
+    line-height: 24px;
 }
 
 h5 {
@@ -1531,6 +1528,15 @@ hr {
     width: 30%;
     margin: 2em 0;
     border-top: 1px solid #dddddd;
+}
+
+.post a {
+    color: #3498db;
+    text-decoration: underline;
+}
+
+.post a:hover {
+    color: #2980b9;
 }
 
 .error-code {
